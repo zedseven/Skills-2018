@@ -1,4 +1,6 @@
 # Skills-2018
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This is the singular file for the 2018 Skills Canada autonomous competition.
 
 This competition involved picking up pipes and delivering them to designated piles - the problem spec is [here](http://www.skillsontario.com/index.php?p=download&file=739).
